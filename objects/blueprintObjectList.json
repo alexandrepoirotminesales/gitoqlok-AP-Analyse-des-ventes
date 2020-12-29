@@ -24,8 +24,16 @@
       "modifiedDate": "2020-12-17T10:56:56.361Z"
     },
     {
+      "qId": "9c955ea1-4480-46be-a532-cf0910b414f2",
+      "qType": "sheet"
+    },
+    {
       "qId": "BTPVJjZ",
       "qType": "filterpane"
+    },
+    {
+      "qId": "FgpwXw",
+      "qType": "piechart"
     },
     {
       "qId": "LoadModel",
@@ -36,12 +44,24 @@
       "qType": "map"
     },
     {
+      "qId": "QKWjmr",
+      "qType": "combochart"
+    },
+    {
       "qId": "fUMpyaM",
       "qType": "slide"
     },
     {
       "qId": "gyrmcn",
       "qType": "bulletchart"
+    },
+    {
+      "qId": "pJMFpZ",
+      "qType": "map"
+    },
+    {
+      "qId": "qCX",
+      "qType": "boxplot"
     },
     {
       "qId": "uQkjX",
