@@ -1,0 +1,47 @@
+{
+  "qInfos": [
+    {
+      "qId": "02c0dcd4-d408-4161-8c9c-1a0f4c77c4f2",
+      "qType": "listbox"
+    },
+    {
+      "qId": "351315e3-63f0-41eb-859f-027e6e219c2f",
+      "qType": "listbox"
+    },
+    {
+      "qId": "3c52a388-b1fe-443f-bdb4-e6d6b09ffaf1",
+      "qType": "story",
+      "modifiedDate": "2020-12-29T08:58:11.067Z"
+    },
+    {
+      "qId": "92117ebd-a256-4d24-88fc-f8944014d28d",
+      "qType": "appprops",
+      "modifiedDate": "2020-12-17T09:16:12.328Z"
+    },
+    {
+      "qId": "965db4e5-b09c-458c-9ad4-19bdec72a45a",
+      "qType": "sheet",
+      "modifiedDate": "2020-12-17T10:56:56.361Z"
+    },
+    {
+      "qId": "BTPVJjZ",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "PCmjT",
+      "qType": "map"
+    },
+    {
+      "qId": "fUMpyaM",
+      "qType": "slide"
+    },
+    {
+      "qId": "uQkjX",
+      "qType": "filterpane"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "qInfo": {
+      "qId": "13fc3e22-eb0b-4d58-a092-3cf6b4b86808",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vTable",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "LIEU",
+    "qIsScriptCreated": true
+  }
+]

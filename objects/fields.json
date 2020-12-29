@@ -1,0 +1,269 @@
+[
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Field",
+    "qCardinal": 17,
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$key",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$FieldNo",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Fields",
+    "qCardinal": 3,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Info",
+    "qCardinal": 1,
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Rows",
+    "qCardinal": 3,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Table",
+    "qCardinal": 3,
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$key",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "ANNEE",
+    "qCardinal": 3,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "CAPACITE"
+    ]
+  },
+  {
+    "qName": "CAPCITE",
+    "qCardinal": 15,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "CAPACITE"
+    ]
+  },
+  {
+    "qName": "CLE_INT_Client",
+    "qCardinal": 35,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "CLE_INT_NumCommercial",
+    "qCardinal": 8,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "CLE_INT_NumHotel",
+    "qCardinal": 5,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "LIEU"
+    ]
+  },
+  {
+    "qName": "CLE_INT_Parrain",
+    "qCardinal": 7,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "CLE_INT_PaysHotel",
+    "qCardinal": 3,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "LIEU"
+    ]
+  },
+  {
+    "qName": "CLE_INT_Ville",
+    "qCardinal": 30,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "Cle_nom_hotel",
+    "qCardinal": 5,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "CAPACITE"
+    ]
+  },
+  {
+    "qName": "DON_INT_Age",
+    "qCardinal": 21,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "DON_TEXT_Nom",
+    "qCardinal": 35,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "DON_TEXT_NomCommercial",
+    "qCardinal": 7,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "DON_TEXT_Prenom",
+    "qCardinal": 35,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "DON_TEXT_Telephone",
+    "qCardinal": 35,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "DON_TEXT_adresse",
+    "qCardinal": 35,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "client"
+    ]
+  },
+  {
+    "qName": "Don_TXT_nomHotel",
+    "qCardinal": 4,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "LIEU"
+    ]
+  },
+  {
+    "qName": "Trimestre",
+    "qCardinal": 4,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "CAPACITE"
+    ]
+  }
+]

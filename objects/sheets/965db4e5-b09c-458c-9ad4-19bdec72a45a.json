@@ -1,0 +1,256 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "965db4e5-b09c-458c-9ad4-19bdec72a45a",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Ma nouvelle feuille",
+      "description": ""
+    },
+    "rank": -1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "BTPVJjZ",
+        "type": "filterpane",
+        "col": 0,
+        "row": 0,
+        "colspan": 12,
+        "rowspan": 6,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "name": "uQkjX",
+        "type": "filterpane",
+        "col": 12,
+        "row": 0,
+        "colspan": 12,
+        "rowspan": 6,
+        "bounds": {
+          "y": 0,
+          "x": 50,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "name": "PCmjT",
+        "type": "map",
+        "col": 12,
+        "row": 6,
+        "colspan": 12,
+        "rowspan": 6,
+        "bounds": {
+          "y": 50,
+          "x": 50,
+          "width": 50,
+          "height": 50
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "BTPVJjZ",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "qChildListDef": {
+          "qData": {
+            "info": "/qInfo"
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": false,
+        "visualization": "filterpane"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "351315e3-63f0-41eb-859f-027e6e219c2f",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "DON_TEXT_Nom"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "njMpHPp"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "DON_TEXT_Nom",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "uQkjX",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "qChildListDef": {
+          "qData": {
+            "info": "/qInfo"
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": false,
+        "visualization": "filterpane"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "02c0dcd4-d408-4161-8c9c-1a0f4c77c4f2",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "DON_TEXT_NomCommercial"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "qFjXY"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "DON_TEXT_NomCommercial",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "PCmjT",
+          "qType": "map"
+        },
+        "qMetaDef": {},
+        "gaLayers": [],
+        "mapSettings": {
+          "_layerType": "",
+          "baseMap": "default",
+          "projection": "default",
+          "mapLanguage": "auto",
+          "useImperialUnits": false,
+          "selectionType": "lasso",
+          "initialView": null,
+          "showLegend": true,
+          "sidebarAlignment": "auto",
+          "showFindLocationButton": false,
+          "showScaleBar": true,
+          "zoomLimitSwitch": false,
+          "zoomLimit": {
+            "range": [
+              0,
+              20
+            ]
+          },
+          "panLimitSwitch": false,
+          "panLimits": null,
+          "showDebugInfo": false
+        },
+        "autoZoomOnSelection": true,
+        "showTitles": true,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": false,
+        "navigation": false,
+        "visualization": "map",
+        "gaVersion": 2,
+        "layers": [],
+        "qUndoExclude": {
+          "hashCode": 2051771294,
+          "gaLayers": []
+        }
+      },
+      "qChildren": []
+    }
+  ]
+}
