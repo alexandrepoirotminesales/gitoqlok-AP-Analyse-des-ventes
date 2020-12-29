@@ -40,6 +40,10 @@
       "qType": "slide"
     },
     {
+      "qId": "gyrmcn",
+      "qType": "bulletchart"
+    },
+    {
       "qId": "uQkjX",
       "qType": "filterpane"
     }
